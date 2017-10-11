@@ -7,7 +7,7 @@ const TOKEN = 'YOUR_MAPBOX_TOKEN';
 const LONG = -122.66661759147235;
 const LAT = 45.51886025215052;
 const ZOOM = 14.26;
-const STYLE_ID = 'USER_NAME/STYLE';
+const STYLE_ID = 'ryantm/cj8m5f0136ll12sk7nm8dj00k';
 
 export default class App extends Component {
 
