@@ -1,7 +1,7 @@
 # BuildingsReact
 Creating a React/Redux wrapper around Mapbox
 
-This repo accompanies my [tutorial on wrapping Mapbox for React/Redux](http://ryantm.io)
+This repo accompanies my [tutorial on wrapping Mapbox for React/Redux](https://medium.com/@mcculloughrt/react-redux-with-mapbox-78fa3767211e)
 
 ## To Use:
 1. Clone the respository and 'npm install'
